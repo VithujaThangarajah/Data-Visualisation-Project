@@ -1,0 +1,331 @@
+Hartlepool,50.5
+Middlesbrough,49.5
+Redcar and Cleveland,49.5
+Stockton-on-Tees,54.7
+Darlington,56.0
+Halton,56.5
+Warrington,59.7
+Blackburn with Darwen,53.2
+Blackpool,51.0
+Kingston upon Hull City of,55.1
+East Riding of Yorkshire,54.2
+North East Lincolnshire,54.0
+North Lincolnshire,54.7
+York,55.9
+Derby,55.5
+Leicester,53.2
+Rutland,54.8
+Nottingham,48.8
+Herefordshire, County of,56.3
+Telford and Wrekin,57.5
+Stoke-on-Trent,54.7
+Bath and North East Somerset,55.6
+Bristol City of,61.2
+North Somerset,57.5
+South Gloucestershire,62.2
+Plymouth,55.4
+Torbay,50.4
+Swindon,63.0
+Peterborough,60.3
+Luton,57.2
+Southend-on-Sea,56.9
+Thurrock,63.0
+Medway,59.5
+Bracknell Forest,66.4
+West Berkshire,63.0
+Reading,62.9
+Slough,62.0
+Windsor and Maidenhead,61.7
+Wokingham,63.5
+Milton Keynes,63.8
+Brighton and Hove,59.2
+Portsmouth,57.2
+Southampton,57.9
+Isle of Wight,48.4
+County Durham,51.2
+Cheshire East,58.4
+Cheshire West and Chester,57.2
+Shropshire,56.0
+Cornwall,53.3
+Isles of Scilly,64.4
+Wiltshire,60.2
+Bedford,61.3
+Central Bedfordshire,63.8
+Northumberland,52.4
+Bournemouth Christchurch and Poole,55.5
+Dorset,52.1
+Buckinghamshire,61.6
+North Northamptonshire,61.8
+West Northamptonshire,62.9
+Cambridge,56.6
+East Cambridgeshire,62.6
+Fenland,55.5
+Huntingdonshire,61.6
+South Cambridgeshire,63.1
+Allerdale,54.9
+Barrow-in-Furness,55.8
+Carlisle,58.0
+Copeland,54.6
+Eden,58.6
+South Lakeland,55.9
+Amber Valley,57.3
+Bolsover,57.5
+Chesterfield,55.3
+Derbyshire Dales,54.4
+Erewash,58.8
+High Peak,59.0
+North East Derbyshire,54.6
+South Derbyshire,62.0
+East Devon,52.4
+Exeter,53.6
+Mid Devon,59.1
+North Devon,55.0
+South Hams,54.1
+Teignbridge,54.8
+Torridge,52.2
+West Devon,52.5
+Eastbourne,51.8
+Hastings,54.7
+Lewes,53.5
+Rother,47.7
+Wealden,55.8
+Basildon,59.9
+Braintree,60.3
+Brentwood,60.3
+Castle Point,55.1
+Chelmsford,60.8
+Colchester,58.9
+Epping Forest,59.9
+Harlow,62.9
+Maldon,56.4
+Rochford,57.5
+Tendring,46.7
+Uttlesford,62.2
+Cheltenham,60.1
+Cotswold,57.8
+Forest of Dean,54.7
+Gloucester,61.4
+Stroud,59.8
+Tewkesbury,60.1
+Basingstoke and Deane,64.7
+East Hampshire,59.5
+Eastleigh,63.0
+Fareham,58.2
+Gosport,57.3
+Hart,62.8
+Havant,54.8
+New Forest,52.9
+Rushmoor,65.6
+Test Valley,61.7
+Winchester,57.8
+Broxbourne,60.8
+Dacorum,62.4
+Hertsmere,61.2
+North Hertfordshire,62.3
+Three Rivers,62.6
+Watford,65.3
+Ashford,59.6
+Canterbury,49.8
+Dartford,64.9
+Dover,53.0
+Gravesham,58.8
+Maidstone,60.8
+Sevenoaks,58.4
+Folkestone and Hythe,52.2
+Swale,56.7
+Thanet,51.3
+Tonbridge and Malling,61.1
+Tunbridge Wells,60.5
+Burnley,53.2
+Chorley,59.4
+Fylde,51.6
+Hyndburn,54.3
+Lancaster,52.2
+Pendle,52.7
+Preston,56.2
+Ribble Valley,59.0
+Rossendale,57.8
+South Ribble,59.8
+West Lancashire,54.5
+Wyre,50.7
+Blaby,61.5
+Charnwood,55.4
+Harborough,60.6
+Hinckley and Bosworth,59.5
+Melton,59.3
+North West Leicestershire,60.3
+Oadby and Wigston,55.0
+Boston,58.4
+East Lindsey,45.8
+Lincoln,53.7
+North Kesteven,58.0
+South Holland,57.3
+South Kesteven,57.8
+West Lindsey,53.3
+Breckland,55.7
+Broadland,56.6
+Great Yarmouth,49.7
+King's Lynn and West Norfolk,53.7
+North Norfolk,46.7
+Norwich,54.4
+South Norfolk,57.8
+Craven,56.2
+Hambleton,56.4
+Harrogate,58.9
+Richmondshire,59.1
+Ryedale,56.0
+Scarborough,50.5
+Selby,61.1
+Ashfield,56.8
+Bassetlaw,56.4
+Broxtowe,56.1
+Gedling,58.2
+Mansfield,57.0
+Newark and Sherwood,56.0
+Rushcliffe,58.3
+Cherwell,65.1
+Oxford,53.6
+South Oxfordshire,62.9
+Vale of White Horse,63.0
+West Oxfordshire,62.8
+Mendip,58.0
+Sedgemoor,57.0
+South Somerset,56.3
+Cannock Chase,59.3
+East Staffordshire,59.0
+Lichfield,57.0
+Newcastle-under-Lyme,54.9
+South Staffordshire,54.3
+Stafford,57.9
+Staffordshire Moorlands,55.7
+Tamworth,59.8
+Babergh,55.5
+Ipswich,59.9
+Mid Suffolk,58.0
+Elmbridge,61.6
+Epsom and Ewell,61.8
+Guildford,58.5
+Mole Valley,58.5
+Reigate and Banstead,62.5
+Runnymede,58.4
+Spelthorne,61.8
+Surrey Heath,61.5
+Tandridge,60.1
+Waverley,58.6
+Woking,63.6
+North Warwickshire,58.9
+Nuneaton and Bedworth,58.1
+Rugby,63.0
+Stratford-on-Avon,58.8
+Warwick,59.0
+Adur,56.3
+Arun,52.4
+Chichester,53.8
+Crawley,62.9
+Horsham,59.8
+Mid Sussex,62.1
+Worthing,58.0
+Bromsgrove,58.3
+Malvern Hills,53.3
+Redditch,60.8
+Worcester,60.3
+Wychavon,57.5
+Wyre Forest,54.1
+St Albans,62.8
+Welwyn Hatfield,59.6
+East Hertfordshire,63.2
+Stevenage,63.8
+East Suffolk,51.5
+West Suffolk,60.5
+Somerset West and Taunton,55.8
+Bolton,54.0
+Bury,57.1
+Manchester,53.5
+Oldham,52.5
+Rochdale,54.0
+Salford,58.8
+Stockport,58.5
+Tameside,57.1
+Trafford,59.9
+Wigan,57.5
+Knowsley,55.9
+Liverpool,51.1
+St. Helens,54.9
+Sefton,53.6
+Wirral,53.2
+Barnsley,55.9
+Doncaster,54.9
+Rotherham,54.6
+Sheffield,53.0
+Newcastle upon Tyne,50.3
+North Tyneside,56.7
+South Tyneside,51.5
+Sunderland,51.8
+Birmingham,49.7
+Coventry,54.2
+Dudley,55.1
+Sandwell,53.0
+Solihull,56.1
+Walsall,53.1
+Wolverhampton,53.4
+Bradford,52.5
+Calderdale,56.0
+Kirklees,54.9
+Leeds,56.8
+Wakefield,57.3
+Gateshead,54.1
+City of London,66.9
+Barking and Dagenham,58.5
+Barnet,60.2
+Bexley,60.2
+Brent,58.5
+Bromley,61.2
+Camden,57.6
+Croydon,61.0
+Ealing,59.3
+Enfield,55.9
+Greenwich,62.2
+Hackney,64.1
+Hammersmith and Fulham,63.4
+Haringey,62.2
+Harrow,59.6
+Havering,59.5
+Hillingdon,59.0
+Hounslow,60.7
+Islington,62.6
+Kensington and Chelsea,56.4
+Kingston upon Thames,62.1
+Lambeth,68.0
+Lewisham,64.2
+Merton,64.9
+Newham,59.2
+Redbridge,58.5
+Richmond upon Thames,62.6
+Southwark,65.2
+Sutton,62.9
+Tower Hamlets,61.4
+Waltham Forest,63.2
+Wandsworth,69.6
+Westminster,57.3
+Isle of Anglesey,51.1
+Gwynedd,52.9
+Conwy,50.6
+Denbighshire,51.8
+Flintshire,57.9
+Wrexham,56.0
+Ceredigion,49.1
+Pembrokeshire,51.5
+Carmarthenshire,52.7
+Swansea,50.9
+Neath Port Talbot,50.5
+Bridgend,53.6
+Vale of Glamorgan,55.8
+Cardiff,54.1
+Rhondda Cynon Taf,53.3
+Caerphilly,54.0
+Blaenau Gwent,52.2
+Torfaen,54.1
+Monmouthshire,54.7
+Newport,57.1
+Powys,54.9
+Merthyr Tydfil,53.8
